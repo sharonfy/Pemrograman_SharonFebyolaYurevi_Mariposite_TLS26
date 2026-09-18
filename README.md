@@ -1,2 +1,19 @@
-# Pemrograman_SharonFebyolaYurevi_Mariposite_TLS26
-Repositori ini berisi penyelesaian tugas Pemrograman Dasar TLS 2026 yang terdiri dari perancangan logika (Flowchart &amp; Pseudocode) dan implementasi kode C++ untuk Problem 1 (The Last Astronaut) dan Problem 2 (Alien-In-The-Middle).
+# Pemrograman Dasar - TLS 2026
+
+Repositori ini dibuat untuk memenuhi tugas **Pemrograman Dasar** oleh TETI Lab Skill.
+
+## 👤 Identitas
+- **Nama Lengkap:** Sharon Febyola Yurevi
+- **Kelompok:** Mariposite
+- **Institusi:** Universitas Gadjah Mada
+
+
+## 📌 Repositori ini terbagi menjadi dua fase pengerjaan untuk dua permasalahan yang diberikan:
+
+### 1. Problem 1: The Last Astronaut
+- **Fase 1 (PDF):** Merancang logika eliminasi astronot melingkar menggunakan *Pseudocode* dan *Flowchart*, serta analisis perubahan nilai loncatan ($K$) berdasarkan nomor astronot genap/ganjil.
+- **Fase 2 (C++):** Implementasi kode program dalam file `Problem1.cpp`
+
+### 2. Problem 2: Alien-In-The-Middle
+- **Fase 1 (PDF):** Merancang logika sistem sandi rahasia (*cipher*) berbasis pergeseran karakter dinamis dari huruf sebelumnya menggunakan *Pseudocode* dan *Flowchart*.
+- **Fase 2 (C++):** Implementasi kode enkripsi teks dalam file `Problem2.cpp` dengan fungsi buatan manual.
