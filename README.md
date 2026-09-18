@@ -8,7 +8,7 @@ Repositori ini dibuat untuk memenuhi tugas **Pemrograman Dasar** oleh TETI Lab S
 - **Institusi:** Universitas Gadjah Mada
 
 
-## 📌 Repositori ini terbagi menjadi dua fase pengerjaan untuk dua permasalahan yang diberikan:
+## 📌 Repositori ini berisi pemecahan dua masalah
 
 ### 1. Problem 1: The Last Astronaut
 - **Fase 1 (PDF):** Merancang logika eliminasi astronot melingkar menggunakan *Pseudocode* dan *Flowchart*, serta analisis perubahan nilai loncatan ($K$) berdasarkan nomor astronot genap/ganjil.
